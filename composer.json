@@ -1,0 +1,19 @@
+{
+    "name": "leandreaci/alerts",
+    "description": "A Alert package for Laravel",
+    "keywords": ["laravel", "alert", "sweet-alert", "laravel sweet alert"],
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alerts",
+            "email": "leandroandreaci@hotmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Leandreaci\\Alerts\\": "/src"
+        }
+    },
+    "minimum-stability": "dev"
+}
